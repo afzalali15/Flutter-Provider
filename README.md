@@ -1,7 +1,7 @@
 # Flutter Provider Sample
 
 <p align="center">
-  <img src="provider_snapshot.png" width="350" alt="flutter flight booking ui" title="Screenshot">
+  <img src="provider_snapshot.png" height="350" alt="flutter provider sample" title="Screenshot">
 </p>
 
 ## Getting Started
