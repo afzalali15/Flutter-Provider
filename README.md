@@ -1,6 +1,8 @@
-# flutter_provider_sample
+# Flutter Provider Sample
 
-A new Flutter project.
+<p align="center">
+  <img src="provider_snapshot.png" width="350" alt="flutter flight booking ui" title="Screenshot">
+</p>
 
 ## Getting Started
 
